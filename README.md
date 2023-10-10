@@ -1,6 +1,6 @@
 # Proyectos Ing Quimica
 
-## Control Estadistico
+## Control Estadístico
 MEJORA EN EL PROCESO DE CALIBRACIÓN EN MAQUINA DE ANESTESIA– Proyecto académico (May 2021)
 
 • Implementé una metodología de análisis y control estadístico para mejorar el proceso de calibración de la variación del 
@@ -33,7 +33,7 @@ pan mas esponjoso. Para tener una altura de 1 cm.
 ### Análisis
 [Reporte](https://github.com/Gaboytes/Ing.Quimica-proyectos/blob/main/Dise%C3%B1o%20de%20Experimentos/Proyecto%20final%20Hot%20cakes.pdf)
 
-## Gestion de la calidad ( Femsa ) 
+## Gestión de la calidad ( Femsa ) 
 
 Objetivo del proyecto:
 El objetivo es el de conocer las políticas de calidad, procesos internos y externos que
