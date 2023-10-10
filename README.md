@@ -8,7 +8,7 @@ flujo de oxígeno en máquinas de anestesia. Utilizando herramientas de calidad 
 diagramas de Ishikawa para el análisis de datos e identificación de áreas de mejora.
 
 • Reduje con éxito la ocurrencia de eventos adversos asociados al uso incorrecto de las máquinas de anestesia, 
-minimizando el desperdicio de gas y mejorando la seguridad del paciente y del personal
+minimizando el desperdicio de gas y mejorando la seguridad del paciente y del personal.
 
 <p float="left">
   <img src="https://github.com/Gaboytes/Ing.Quimica-proyectos/assets/145523136/c2317288-85a5-42a5-ad9c-e4d14017f762" width="45%" />
@@ -59,7 +59,7 @@ cumplimientos exigidos en la norma ISO-9001-2005 y también por el cliente.
 materia prima, lo cual beneficia tanto al sector ganadero al reducir la dependencia del maíz de trigo, así como al 
 medio ambiente al aprovechar este recurso natural y no desperdiciarlo.
 
-- Análisis de costos, sensibilidad, riesgos y flujo de caja para respaldar la viabilidad y éxito del proyecto
+- Análisis de costos, sensibilidad, riesgos y flujo de caja para respaldar la viabilidad y éxito del proyecto.
 
 ### Análisis
 [Video](https://github.com/Gaboytes/Ing.Quimica-proyectos/blob/main/Sarga-Moo/Video%20pitch.mp4)
